@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #24292e;
+    color: #ffffff;
+    padding: 10px 15px;
+    text-align: center;
+}
+.content {
+    padding: 15px;
+}
+.footer {
+    background-color: #24292e;
+    color: #ffffff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+}
+.github-logo {
+    display: block;
+    margin: auto;
+    width: 120px;
+    height: auto;
+}
